@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Food Photography',    url: 'food'}
+- {name: 'Food',                url: 'food'}
 - {name: 'Portraits',           url: 'portraits'}
-- {name: 'Non-Humans',          url: 'non-humans'}
-# - {name: 'Documentation',      url: 'documentation'}
+- {name: 'Travel',              url: 'travel'}
+# - {name: 'Documentation',     url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
